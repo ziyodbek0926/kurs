@@ -14,8 +14,8 @@ Bu loyiha OpenStreetMap ma'lumotlari asosida ishlaydi va foydalanuvchilarga yaqi
 
 1. Repositoriyani klonlash:
 ```bash
-git clone https://github.com/username/location-bot.git
-cd location-bot
+git clone https://github.com/ziyodbek0926/kurs.git
+cd kurs
 ```
 
 2. Virtual muhit yaratish va faollashtirish:
