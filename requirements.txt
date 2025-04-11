@@ -1,0 +1,30 @@
+# Asosiy framework
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+
+# Ma'lumotlar bazasi
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.23
+GeoAlchemy2==0.14.1
+
+# Telegram bot
+aiogram==3.3.0
+python-dotenv==1.0.0
+
+# Geografik ma'lumotlar bilan ishlash
+requests==2.31.0
+geopy==2.4.1
+shapely==2.0.1
+
+# Server
+gunicorn==21.2.0
+whitenoise==6.6.0
+
+# OpenStreetMap bilan ishlash
+overpy==0.7
+
+# Yordamchi kutubxonalar
+aiohttp==3.9.1
+asgiref==3.7.2
+numpy==1.24.3
